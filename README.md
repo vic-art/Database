@@ -1,3 +1,3 @@
 ## Task
-The task was to create employee database with the function of viewing, adding new employee, searching for a the information by the employee's name, 
-deleting information, editing information and export of data in json format.
+The task was to create a database of employees with the function of viewing, adding a new employee, searching for information by employee name, 
+deleting information, editing information and exporting data in json format.
